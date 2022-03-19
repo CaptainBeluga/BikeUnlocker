@@ -11,7 +11,7 @@ I wrote it when i was 14 yr old.
 
     1. Type a PIN of three numbers
 
-    2. The program will create all the possible combinations and will always check if the "PIN GENERATED" is the same to your PIN.
+    2. The program will create all the possible combinations and will always check if the "PIN GENERATED" is the same to your PIN you just typed.
     
     3. It is not a passing of variable, check in the code. It is a combinations creator.
 
